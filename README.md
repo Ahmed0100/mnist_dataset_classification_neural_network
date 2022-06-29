@@ -1,2 +1,1 @@
-# mnist_dataset_classification_neural_network
-mnist_dataset_classification_neural_network
+A 4 layer (30x30x10x10 neurons) implementation for MNIST data set classification. The neural network has an AXIS stream interface for data and an AXI-lite interface for weights and biases configurations.
